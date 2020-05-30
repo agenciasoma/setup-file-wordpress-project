@@ -1,6 +1,7 @@
 # setup-file-wordpress-project
 > Arquivo com script para iniciar um projeto com WordPress
-https://img.shields.io/github/languages/top/agenciasoma/setup-file-wordpress-project
+
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/agenciasoma/setup-file-wordpress-project">
 
 ## Necessário
 
@@ -31,10 +32,7 @@ Preencha os valores abaixo ao executar o script
 
 ```
 
-## Agradecimento
+## Contribuição
 
-*Obrigado por realizar o teste e pelo interesse em trabalhar com a SOMADev.<br>
-Espero que consiga alcançar os objetivos e que você faça parte da nossa equipe.<br>
-Sucesso!!!*
-
-
+Fique avontade para contribuir com este projeto.
+Será um prazer receber novas ideias e melhorias para automatizar o setup de um projeto em WordPress.
