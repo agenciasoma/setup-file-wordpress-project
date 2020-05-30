@@ -34,5 +34,5 @@ Preencha os valores abaixo ao executar o script
 
 ## Contribuição
 
-Fique avontade para contribuir com este projeto.
+Fique  à vontade para contribuir com este projeto.
 Será um prazer receber novas ideias e melhorias para automatizar o setup de um projeto em WordPress.
