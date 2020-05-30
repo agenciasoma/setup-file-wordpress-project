@@ -9,7 +9,7 @@
 - PHP 5.4 or later
 - WordPress 3.7 or later
 
-## Usage
+## Modo de usar
 
 Você deve executar o arquivo no repositório que deseja realizar a instalação do prójeto.
 
